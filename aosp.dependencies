@@ -1,8 +1,8 @@
 [
   {
-    "repository": "Sap1k/kernel_xiaomi_lavender",
+    "repository": "Sap1k/kernel_sdm660",
     "target_path": "kernel/xiaomi/lavender",
-    "branch": "ten"
+    "branch": "old-cam"
   },
   {
     "repository": "Sap1k/packages_apps_GoogleCamera_lavender",
@@ -10,7 +10,7 @@
     "branch": "ten"
   },
   {
-    "repository": "Sap1k/vendor_xiaomi",
+    "repository": "Sap1k/vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi",
     "branch": "ten"
   }
