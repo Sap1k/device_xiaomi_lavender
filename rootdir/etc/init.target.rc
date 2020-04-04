@@ -97,6 +97,10 @@ on boot
     chown root system /proc/tp_grip_area
     #chmod 0771 /data/vendor/charge_logger
     #chown root root /data/vendor/charge_logger
+    
+    chown system system /sys/class/power_supply/battery/input_suspend
+    chmod 0666 /sys/class/power_supply/battery/input_suspend
+
 
 #Create folder dump yuv images while debugging
     mkdir /data/vendor/camera 0770 camera camera
