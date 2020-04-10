@@ -58,6 +58,9 @@ TARGET_KERNEL_CLANG_VERSION := r353983c
 TARGET_BOARD_PLATFORM := sdm660
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno512
 
+# Animation for offline charging
+TARGET_PIXEL_CHARGE_ANIM := true
+
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
