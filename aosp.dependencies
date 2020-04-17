@@ -1,5 +1,4 @@
 [
-[
   {
     "repository"  : "kernel_xiaomi_sdm660",
     "target_path" : "kernel/xiaomi/lavender"
@@ -11,7 +10,7 @@
     "branch"      : "ten"
   },
   {
-    "repository"  : "Sap1k/vendor_xiaomi_lavender",
+    "repository"  : "vendor_xiaomi_lavender",
     "target_path" : "vendor/xiaomi"
   }
 ]
