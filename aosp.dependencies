@@ -4,7 +4,7 @@
     "target_path" : "kernel/xiaomi/lavender"
   },
   {
-    "repository"  : "Sap1k/packages_apps_GoogleCamera_lavender",
+    "repository"  : "ilham22/packages_apps_GoogleCamera_lavender",
     "target_path" : "packages/apps/GoogleCamera",
     "remote"      : "github",
     "branch"      : "ten"
