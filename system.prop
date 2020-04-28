@@ -24,6 +24,9 @@ persist.debug.coresight.config=stm-events
 #enable pickup gesture
 ro.vendor.sensors.pug=true
 
+# Apex
+ro.apex.updatable=true
+
 #set maximum supported adapter voltage
 persist.chg.max_volt_mv=9000
 
