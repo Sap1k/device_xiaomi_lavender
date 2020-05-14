@@ -33,6 +33,8 @@
      <!-- Whether device has a physical display cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
     
+    <!-- Device has a wider-than 16:9 screen -->
+    <bool name="config_haveHigherAspectRatioScreen">true</bool>
     
     <!-- Whether device ignores the RSSNR signal implementation -->
     <bool name="config_ignoreRssnrSignalLevel">true</bool>
