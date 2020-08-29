@@ -649,4 +649,7 @@
     <string name="config_SmartChargingResumeValue" translatable="false">0</string>
     <!-- True if the firmware supports p2p MAC randomization -->
     <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
+	
+	<!-- Whether the display blanks itself when transitioning from a Doze to a non Doze state -->
+    <bool name="config_displayBlanksAfterDoze">true</bool>
 </resources>
